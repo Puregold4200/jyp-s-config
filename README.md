@@ -6,4 +6,4 @@ This is my personal config. It's designed for me, so it may not work for you.
 -  My "Network" File, which is my settings involving connection to TF2.
 -  My "Custom" File, which includes edits towards the config and other stuff that I personally added.
 	
-This is a heavily modified Masterconfig, mixed in with cfg.tf's Crosshair Switcher, JarateKing's CleanTF2Plus and No-Hats-Mod-bgum.
+This is a heavily modified Masterconfig mixed in with cfg.tf's Crosshair Switcher.
