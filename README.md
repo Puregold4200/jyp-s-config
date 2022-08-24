@@ -7,3 +7,9 @@ This is my personal config. It's designed for me, so it may not work for you.
 -  My "Custom" File, which includes edits towards the config and other stuff that I personally added.
 	
 This is a heavily modified Masterconfig mixed in with cfg.tf's Crosshair Switcher.
+
+## Other things I use
+
+- No Hat Mod Bgum https://gamebanana.com/mods/205768 (No Hats BGUM, No Hats Creators tf, No Unusuals, No Bugged Misc)
+- JarateKing's CleanTF2Plus https://github.com/JarateKing/CleanTF2plus (Flat Resized Textures)
+- Masterconfig's Addons (No Footsteps, No Tutorial, No Soundscapes)
