@@ -10,6 +10,6 @@ This is a heavily modified Masterconfig mixed in with cfg.tf's Crosshair Switche
 
 ## Other things I use
 
-- No Hat Mod Bgum https://gamebanana.com/mods/205768 (No Hats BGUM, No Hats Creators tf, No Unusuals, No Bugged Misc)
-- JarateKing's CleanTF2Plus https://github.com/JarateKing/CleanTF2plus (Flat Resized Textures)
-- Masterconfig's Addons (No Footsteps, No Tutorial, No Soundscapes)
+- No Hat Mod Bgum https://gamebanana.com/mods/205768 (Options: No Hats BGUM, No Hats Creators tf, No Unusuals, No Bugged Misc)
+- JarateKing's CleanTF2Plus https://github.com/JarateKing/CleanTF2plus (Options: Flat Resized Textures)
+- Masterconfig's Addons (Options: No Footsteps, No Tutorial, No Soundscapes)
