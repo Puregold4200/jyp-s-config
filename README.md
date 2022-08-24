@@ -6,9 +6,12 @@ This is my personal config. It's designed for me, so it may not work for you.
 -  My "Network" File, which is my settings involving connection to TF2.
 -  My "Custom" File, which includes edits towards the config and other stuff that I personally added.
 
-- Simple yet highly customizable Crosshair/Viewmodel Switcher, with an optional viewmodel-only mode. (**Uses Arrow Keys**)
+- My HUD (Modified ZONAhud) with custom crosshairs.
+- Soundscapes for disabled footsteps and disabled background noise on TF2 Maps.
+- Flat Textures
+- No Hats
 	
-This is a heavily modified Masterconfig, mixed in with cfg.tf's Crosshair Switcher and JarateKing's CleanTF2Plus.
+This is a heavily modified Masterconfig, mixed in with cfg.tf's Crosshair Switcher, JarateKing's CleanTF2Plus and No-Hats-Mod-bgum.
 
 ## Most notable game settings changed:
 - The Graphics of the game are set to incredibly low, most textures coming up as "flat"
